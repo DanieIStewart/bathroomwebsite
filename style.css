@@ -1,0 +1,14 @@
+.contact h3 {
+  margin: 0px;
+  background-color: lightsteelblue;
+  display: flex;
+  justify-content: center;
+}
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
+.company-img {
+  margin: auto;
+}
