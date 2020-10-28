@@ -1,6 +1,6 @@
 .contact h3 {
   margin: 0px;
-  background-color: lightsteelblue;
+  background-color: #93c2ff;
   display: flex;
   justify-content: center;
 }
@@ -11,4 +11,9 @@ h2 {
 
 .company-img {
   margin: auto;
+}
+
+.nav :hover {
+  text-decoration: underline;
+  color: #93c2ff;
 }
